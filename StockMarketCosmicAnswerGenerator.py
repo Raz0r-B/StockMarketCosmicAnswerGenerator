@@ -1,3 +1,9 @@
+'''
+    Inspired by multiple magic 8ball programs
+    This was a simple project I first learnes in the popular "Automate the boring stuff with python"
+    As well as lots of googling on creating graphic user interfaces with the tkinter python library
+'''
+
 import random
 import tkinter as tk
 
